@@ -3,13 +3,13 @@ Demo: http://662948.stasyk.web.hosting-test.net/
 
 Teacher
 -------------
-Login:
+Login: admin@admin.com
 
-Password:
+Password: 123456
 
 
 Student
 -------------
-Login:
+Login: stud@stud.com
 
-Password:
+Password: 123456
